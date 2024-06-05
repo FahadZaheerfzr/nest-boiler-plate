@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+
+# Nest.js generated files
+dist/
+node_modules/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
